@@ -1,6 +1,9 @@
 Terraform Cashcat
 ========================
 
+This project will create a scheduled lambda to post random cash cat gliphy
+images to slack.
+
 Prerequisites
 ========
 
